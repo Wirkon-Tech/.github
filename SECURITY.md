@@ -1,17 +1,17 @@
-# Política de Seguridad
+# Security Policy
 
-En **Wirkon Tech** priorizamos la seguridad y la divulgación responsable de vulnerabilidades.
+At **Wirkon Tech**, security and responsible vulnerability disclosure are top priorities.
 
-## 🛡️ Versiones Soportadas
+## 🛡️ Supported Versions
 
-Actualmente, solo las versiones más recientes de las ramas principales (`main`) de nuestras iniciativas reciben parches de seguridad.
+Only the latest commit on the `main` branch of active projects receives security updates and patches.
 
-## 🚨 Reportar una Vulnerabilidad
+## 🚨 Reporting a Vulnerability
 
-Si descubres una falla de seguridad en alguno de los proyectos de la organización, te solicitamos gestionarla de la siguiente manera:
+If you discover a security vulnerability in any project under this organization, please report it via:
 
-1. **Private Vulnerability Reporting (Recomendado):** Utiliza la opción de reporte privado directamente desde la pestaña **Security > Report a vulnerability** del repositorio correspondiente en GitHub.
-2. **GitHub Issues:** En caso de no contar con la opción privada activa, puedes abrir un Issue en el repositorio afectado solicitando contacto directo para coordinar los detalles del hallazgo de forma discreta.
+1. **Private Vulnerability Reporting (Preferred):** Use the **Security > Report a vulnerability** feature directly on the affected repository.
+2. **GitHub Issues:** If private reporting is unavailable, open a brief GitHub Issue requesting contact to coordinate details securely.
 
-### Compromiso de Respuesta
-Al ser una iniciativa en fase de incubación independiente, procesaremos las alertas de seguridad lo antes posible. Agradecemos enormemente la divulgación responsable para proteger a la comunidad.
+### Response Commitment
+As a personal technical incubation project, reported vulnerabilities will be reviewed and addressed on a best-effort basis. Responsible disclosures are deeply appreciated.
