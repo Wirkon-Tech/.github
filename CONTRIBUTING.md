@@ -1,36 +1,14 @@
-# Guía de Contribución
+# Contributing Guidelines
 
-¡Gracias por tu interés en **Wirkon Tech**! 
+Thank you for your interest in **Wirkon Tech**!
 
----
+## 📌 Current Scope
+Wirkon Tech operates as a **personal technical incubation laboratory**. Development is primarily led independently.
 
-## 📌 Estatus Actual del Proyecto
+## 🤝 Feedback & Contributions
+If you encounter bugs, have feature requests, or wish to propose changes:
+1. Open a detailed **GitHub Issue** outlining your proposal or bug report.
+2. Ensure any proposed code modifications follow our branch naming conventions and coding standards before submitting a Pull Request.
 
-Actualmente, **Wirkon Tech** opera como una **iniciativa personal y laboratorio de incubación técnica independiente**. Por esta razón:
-* El desarrollo principal se realiza de forma individual.
-* De momento **no estamos buscando contribuciones activas de código ni colaboraciones externas**.
-
----
-
-## 🛠️ ¿Cómo puedes participar?
-
-Aunque el desarrollo está reservado al mantenedor del proyecto, agradecemos el feedback y la retroalimentación de la comunidad:
-
-* **Reportar Errores (Bugs):** Si encuentras un fallo o comportamiento inesperado, puedes abrir un **Issue** describiendo el problema, los pasos para reproducirlo y el entorno donde ocurrió.
-* **Sugerencias de Mejora:** Puedes proponer ideas o nuevas funcionalidades a través de los **Issues** etiquetados como `enhancement`.
-* **Vulnerabilidades de Seguridad:** Si identificas un problema de seguridad, por favor revisa nuestra política en [SECURITY.md](SECURITY.md) para reportarlo de forma adecuada.
-
----
-
-## ⚖️ Propiedad Intelectual y Licencia
-
-En caso de enviar solicitudes de extracción (*Pull Requests*) o aportes de código que sean aceptados por el mantenedor:
-
-1. **Cesión de Derechos:** Al enviar cualquier contribución a esta organización, aceptas que el código o documentación aportada pasa a formar parte del proyecto y estará sujeto a la **Licencia MIT** bajo la que se distribuye este repositorio.
-2. **Propiedad Intelectual:** Declaras y garantizas que eres el autor original del código enviado o que cuentas con los derechos legales necesarios para aportar dicho trabajo sin restricciones de terceros.
-
----
-
-<p align="center">
-  <sub>Wirkon Tech — "Del editor al mundo"</sub>
-</p>
+## 📜 Intellectual Property & Copyright Assignment
+By submitting any contribution (code, documentation, scripts) to Wirkon Tech repositories, you explicitly agree that your contributions will be licensed under the project's **MIT License**. You grant **Wirkon Tech** a perpetual, royalty-free, and unrestricted right to use, modify, consolidate, and redistribute the material within this initiative or its future legal entities.
