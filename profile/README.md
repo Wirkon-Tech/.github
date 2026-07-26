@@ -1,35 +1,30 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Personal%20Incubation-blue?style=for-the-badge&logo=github" alt="Status Badge" />
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20CI%2FCD-0052CC?style=for-the-badge&logo=githubactions" alt="Focus Badge" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License Badge" />
-</p>
+<div align="center">
 
 # Wirkon Tech
 
-> *"Del editor al mundo"*
-
-Bienvenido al espacio de **Wirkon Tech**, un laboratorio técnico e independiente enfocado en la transformación de código, automatización, pipelines de CI/CD y soluciones de infraestructura desplegadas en la nube.
-
----
-
-## 🚀 Enfoque y Proyectos
-
-Esta organización alberga proyectos personales, pruebas de concepto y arquitecturas de software independientes. 
-
-* **CI/CD & Automatización:** Configuración de flujos integrados y pipelines eficaces.
-* **Infraestructura en la Nube:** Despliegues automatizados y gestión de proyectos modulares.
-* **Laboratorio Técnico:** Espacio de incubación para arquitecturas de software moderno.
-
----
-
-## ⚖️ Estatus Legal y Licencias
-
-* **Fase Actual:** Wirkon Tech opera como una iniciativa personal e independiente de desarrollo técnico y laboratorio de pruebas. Actualmente no constituye una entidad comercial legalmente registrada.
-* **Propiedad y Uso:** Los proyectos alojados en esta organización son de desarrollo propio e individual. 
-* **Licencia:** El código público distribuido se encuentra bajo la [Licencia MIT](LICENSE) ("AS IS", sin garantías explícitas o implícitas).
-
----
-
 <p align="center">
-  <sub>Construido con enfoque en automatización y calidad desde el día uno.</sub>
+  <em>"Del editor al mundo"</em>
 </p>
+
+[![Estatus](https://img.shields.io/badge/Estatus-Personal_Incubation-blue?style=for-the-badge)](https://github.com/orgs/WirkonTech)
+[![Enfoque](https://img.shields.io/badge/Enfoque-Cloud_%26_CI%2FCD-0052CC?style=for-the-badge)](https://github.com/orgs/WirkonTech)
+[![Licencia](https://img.shields.io/badge/Licencia-MIT-green?style=for-the-badge)](./LICENSE)
+
+---
+
+</div>
+
+## 🚀 Sobre Wirkon Tech
+
+Inspirados en el concepto de *Wirkung* (efecto / impacto), **Wirkon Tech** es un laboratorio técnico e iniciativa independiente enfocado en la transformación de código en soluciones reales desplegadas en la nube, automatización de infraestructura y gestión de proyectos software.
+
+### 🛠️ Pilares de Desarrollo
+* **Cloud & Infrastructure:** Arquitecturas escalables y eficientes.
+* **Automation & CI/CD:** Pipelines automatizados y gestión de runners.
+* **Independent Projects:** Incubación de herramientas y plataformas digitales.
+
+---
+
+## ⚖️ Aviso Legal / Disclaimer
+
+> **Estatus de la Organización:** Wirkon Tech es una iniciativa técnica e independiente de desarrollo de software. Actualmente opera como un proyecto de incubación personal y no constituye una entidad comercial legalmente registrada. Los nombres, proyectos y activos aquí alojados representan marcas en desarrollo.
