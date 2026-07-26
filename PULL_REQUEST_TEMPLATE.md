@@ -1,11 +1,11 @@
-## 📌 Descripción del Cambio
-## 🛠️ Tipo de Cambio
-- [ ] `feature/` Nueva funcionalidad
-- [ ] `bugfix/` / `hotfix/` Corrección de error
-- [ ] `docs/` Cambios en documentación
-- [ ] `chore/` Mantenimiento o configuración CI/CD
+## 📌 Overview
+## 🛠️ Type of Change
+- [ ] `feature/` New functionality
+- [ ] `bugfix/` / `hotfix/` Bug resolution
+- [ ] `docs/` Documentation update
+- [ ] `chore/` Maintenance or CI/CD configuration
 
-## 🔍 Lista de Chequeo
-- [ ] El nombre de la rama cumple con la convención definida.
-- [ ] El código ha sido probado localmente.
-- [ ] Se han actualizado/agregado los documentos pertinentes si aplica.
+## 🔍 Checklist
+- [ ] My branch name follows the organization naming convention.
+- [ ] Code has been tested locally.
+- [ ] Corresponding documentation has been updated where applicable.
