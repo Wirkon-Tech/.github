@@ -1,0 +1,20 @@
+name: Branch Name Linter
+
+on:
+  push:
+    branches-ignore:
+      - main
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  validate-branch-name:
+    name: Validate Branch Name Convention
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check Branch Name
+        uses: deepakputhraya/action-branch-name@v1.0.0
+        with:
+          regex: '^(feature|bugfix|hotfix|release|chore|docs)\/[a-z0-9-]+$'
+          allowed_prefixes: 'feature,bugfix,hotfix,release,chore,docs'
+          ignore: main
