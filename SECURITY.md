@@ -1,47 +1,17 @@
 # Política de Seguridad
 
-En **Wirkon Tech**, la seguridad del código, la automatización y la protección de la infraestructura son aspectos prioritarios desde la fase inicial de desarrollo.
+En **Wirkon Tech** priorizamos la seguridad y la divulgación responsable de vulnerabilidades.
 
----
+## 🛡️ Versiones Soportadas
 
-## 🛡️ Versiones Compatibles
+Actualmente, solo las versiones más recientes de las ramas principales (`main`) de nuestras iniciativas reciben parches de seguridad.
 
-Al encontrarse en una etapa de **incubación técnica personal**, únicamente la rama principal (`main`) de los proyectos activos recibe actualizaciones de seguridad y parches directos.
+## 🚨 Reportar una Vulnerabilidad
 
-| Versión / Rama | Soportada |
-| --- | --- |
-| Branch `main` | ✅ Sí |
-| Versiones/Etiquetas anteriores | ❌ No |
+Si descubres una falla de seguridad en alguno de los proyectos de la organización, te solicitamos gestionarla de la siguiente manera:
 
----
+1. **Private Vulnerability Reporting (Recomendado):** Utiliza la opción de reporte privado directamente desde la pestaña **Security > Report a vulnerability** del repositorio correspondiente en GitHub.
+2. **GitHub Issues:** En caso de no contar con la opción privada activa, puedes abrir un Issue en el repositorio afectado solicitando contacto directo para coordinar los detalles del hallazgo de forma discreta.
 
-## 📩 Reporte de Vulnerabilidades
-
-Si descubres una posible falla o vulnerabilidad de seguridad en cualquiera de los repositorios de esta organización, te solicitamos reportarla a través de los siguientes medios en la plataforma:
-
-1. **GitHub Private Vulnerability Reporting (Método Recomendado):**
-   * Ve a la pestaña **Security** del repositorio correspondiente.
-   * Haz clic en **Report a vulnerability** para abrir un reporte privado directamente con el mantenedor.
-
-2. **Creación de un Issue:**
-   * Si la herramienta de reporte privado no está disponible en el repositorio, abre un **Issue** en el proyecto correspondiente con el título prefijado como `[SECURITY]` y describe la situación omitiendo datos sensibles expotables.
-
-### 📋 Información sugerida para el reporte
-* Descripción clara del problema o fallo identificado.
-* Pasos para reproducir la vulnerabilidad o prueba de concepto (PoC).
-* Impacto potencial estimado.
-
----
-
-## ⏱️ Proceso de Respuesta
-
-Al ser un proyecto gestionado de forma independiente:
-* Se revisará el reporte o Issue publicado a la brevedad posible según disponibilidad.
-* Se evaluará la vulnerabilidad y, si aplica, se desplegará una corrección en la rama principal.
-* Agradecemos la divulgación responsable por parte de la comunidad técnica para mantener un entorno seguro.
-
----
-
-<p align="center">
-  <sub>Wirkon Tech — "Del editor al mundo"</sub>
-</p>
+### Compromiso de Respuesta
+Al ser una iniciativa en fase de incubación independiente, procesaremos las alertas de seguridad lo antes posible. Agradecemos enormemente la divulgación responsable para proteger a la comunidad.
